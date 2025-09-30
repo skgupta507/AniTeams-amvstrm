@@ -1,5 +1,5 @@
-# Update 
-The website is now back and runnning . anime watching page works fine as well 
+# ATTENTION !!!
+This project is now good as dead as you know has closed down. Feel free to use this site as a template but please do give credit to me if you are using this . Thank you :)
 # Projetc details 
 AniTeams , but this time it uses  [Amvstrm Api ](https://github.com/amvstrm/api), and a new layout as well . The layout might slightly similar to amvstrm official website 
 
